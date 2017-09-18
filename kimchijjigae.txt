@@ -4,4 +4,5 @@ add tofu
 add gochukkalu
 add pork
 add kimchi
+add daeji
 yolo
