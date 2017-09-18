@@ -9,6 +9,7 @@ Ingredients:
  - 1/4 blah corn flour
  - One 15-ounce can kidney beans, drained and rinsed
  - Almond Butter
+ - new ingredient
 
 Directions:
  1. Brown the ground beef in a large bot and drain off the excess fat.
