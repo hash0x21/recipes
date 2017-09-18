@@ -2,5 +2,5 @@ add water
 add gochuchang
 add tofu
 add gochukkalu
-add kimchi
+add kimchi-times2
 yolo
